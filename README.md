@@ -1,5 +1,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/erick.gabz/?__pwa=1)
-[![TikTok](https://img.shields.io/badge/TikTok-%23010101.svg?style=for-the-badge&logo=TikTok&logoColor=%23FFFFFF)](https://www.instagram.com/erick.gabz/?__pwa=1)
+[![TikTok](https://img.shields.io/badge/TikTok-%23010101.svg?style=for-the-badge&logo=TikTok&logoColor=%23FFFFFF)](https://www.tiktok.com/@erick.gabz?_t=8qBvHwRNDDq&_r=1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-gabriel-de-souza-romeiro-22358b330/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErickRomeiro/ErickGab122)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egabrieldesouzaromeiro@gmail.com)
