@@ -3,3 +3,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-gabriel-de-souza-romeiro-22358b330/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErickRomeiro/ErickGab122)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egabrieldesouzaromeiro@gmail.com)
+[![Header](https://github.com/ErickRomeiro/ErickGab122/blob/main/Perfil%20GitHub.png "Header")](https://github.com/ErickRomeiro)
